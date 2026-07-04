@@ -1,0 +1,6 @@
+<BrightnessOverride>
+  <Setting context="indoor_day" value="1.0" />
+  <Setting context="indoor_night" value="0.5" />
+  <Setting context="outdoor_day" value="1.0" />
+  <Setting context="outdoor_night" value="0.5" />
+</BrightnessOverride>

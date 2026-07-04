@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="ShadowBalancer" />
+	<DisplayName value="ShadowBalancer: A Brightness Adjuster" />
+	<Description value="Harmony patch + editable XML config for fixing 3.0's brightness slider so it only darkens what it should. Fully configurable indoor/outdoor and day/night brightness, with live in-game console commands for reload, set, and reset." />
+	<Author value="Juggalospsyco420" />
+	<Version value="1.0.0" />
+	<Website value="https://syncfirstessentials.com" />
+	<SkipWithAntiCheat value="false" />
+</xml>
